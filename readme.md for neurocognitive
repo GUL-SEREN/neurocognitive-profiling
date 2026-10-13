@@ -1,3 +1,15 @@
+<p align="center">
+  <h1>Neurocognitive Profiling</h1>
+  <p><strong>A Multidimensional Analysis of Brain Volumes, Personality Traits, and Cognitive Performance</strong></p>
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python" alt="Python Data Analysis" />
+  <img src="https://img.shields.io/badge/Google%20Colab-Notebook-orange?logo=googlecolab" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" alt="Project in progress" />
+</p>
+
+## Explore the Analysis
+
+[Open the Jupyter Notebook](neurocognitive_analysis.ipynb) to explore the Python workflow, statistical analyses, and visualizations.
+
 # Neurocognitive Profiling: A Multidimensional Analysis of Brain Volumes, Personality Traits, and Cognitive Performance
 
 ## Project Overview
