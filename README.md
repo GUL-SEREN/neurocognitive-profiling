@@ -73,10 +73,7 @@ The notebook documents the analysis workflow. The underlying dataset is not incl
 
 An interdisciplinary researcher with a background in histology and embryology, developing practical experience in Python-based data analysis and statistical modeling.
 
-# Neurocognitive Profiling Project
 
-Proje analizine ait görseller aşağıda yer almaktadır:
 
-### Grafik Başlığı
-![Grafik Açıklaması](images/bilissel-performans-onem-sirasi.png)
+
 
