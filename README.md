@@ -80,6 +80,9 @@ Proje analizine ait görseller aşağıda yer almaktadır:
 ### K-means Kümeleme Analizi
 ![kmeanskümelemeanalizi](images/kmeanskümelemeanalizi.png)
 
+### Bilişsel Performans
+![bilisselperformansönemsırası](images/bilisselperformansönemsırası.png)
+
 
 
 
