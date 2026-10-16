@@ -78,5 +78,5 @@ An interdisciplinary researcher with a background in histology and embryology, d
 Proje analizine ait görseller aşağıda yer almaktadır:
 
 ### Grafik Başlığı
-![PCA analiz](images/PCA analizi.png)
+![PCAanalizi](images/PCA analizi.png)
 
